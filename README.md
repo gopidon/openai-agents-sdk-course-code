@@ -21,7 +21,9 @@ against the Solution if you get stuck.
 
 ## Section 01 — Introduction & Setup
 
-*Lectures 1.1–1.4 are concept-only (slides, no notebook).*
+*Lectures 1.1–1.4 are concept-only (slides, no notebook). Lecture 1.8
+is an orientation lecture with no notebook of its own — it walks through
+the notebooks already listed below.*
 
 | Lecture | Notebook |
 |---|---|
